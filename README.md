@@ -1,7 +1,7 @@
 <h1>Olá👋</h1>
 
 <a href="https://github.com/leosupply">
-    <img align="right" width="320px" src="https://raw.githubusercontent.com/LeoSupply/LeoSupply/main/perfil_blob.png" alt="img_perfil">
+    <img align="right" width="350px" src="https://raw.githubusercontent.com/LeoSupply/LeoSupply/main/perfil_blob.png" alt="img_perfil">
 </a>
 
 <div>
