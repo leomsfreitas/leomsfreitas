@@ -13,9 +13,8 @@
 
 <div>
     <h6>Utilize o dark theme para conseguir visualizar minhas redes ;)</h6>
-    <a href="https://www.linkedin.com/in/leo-freitas-28a190163/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+    <a href="https://www.linkedin.com/in/leofdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
     <a href="https://dev.to/leosupply" target="_blank"><img align="left" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-    <a href="https://g.dev/leofreitas" target="_blank"><img align="left" alt="GoogleDev" width="22px" src="https://raw.githubusercontent.com/LeoSupply/LeoSupply/b125e24a43656f21b1b33ae9ee7f5de7e223cec6/google_dev.svg" /></a>
 </div><br><br>
 
 ```c
