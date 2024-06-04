@@ -22,84 +22,33 @@
 <br>
 <br>
 
-```python
-print("Não é a linguagem de programação que define o programador, mas sim sua lógica.")
-```
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Não é a linguagem de programação que define o programador, mas sim sua lógica.");
-    }
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Não é a linguagem de programação que define o programador, mas sim sua lógica.\n");
+    return 0;
 }
 ```
 
 #
-
-<div>
-    <h3>Hard Skills:</h3>
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="Python"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/354238/python.svg"/>
-            <span>Python</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="HTML"
-                height="30"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-            <span>HTML</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="CSS3"
-                height="30"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-            <span>CSS3</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="Photoshop"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg"/>
-            <span>Adobe Photoshop</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="Illustrator"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg"/>
-            <span>Adobe Illustrator</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 10px;">
-            <img
-                style="margin-right: 10px;"
-                align="center"
-                alt="Figma"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/354987/figma.svg"/>
-            <span>Figma</span>
-        </li>
-    </ul>
+<h3>Languages ​​and Tools</h3>
+<div style="display: inline_block">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
+
 
 #
 
