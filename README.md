@@ -6,9 +6,9 @@
 
 <div>
     <h3>Prazer!</h3> 
-    <p>Meu nome é <b>Leo</b>. Atualmente, estou cursando bacharelado em Engenharia de Software no Instituto Federal de São Paulo - IFSP.</p>
-    <p>Anteriormente, trabalhei como designer gráfico, o que contribuiu significativamente para o desenvolvimento da minha visão crítica em relação à interface e à experiência do usuário com GUI.</p>
-    <p>Tenho uma afinidade maior e dedicação ao desenvolvimento de Back-End, uma área na qual busco constantemente aprimorar meus conhecimentos e desenvolver experiências que contribuam para um desempenho superior.</p>
+    <p>Meu nome é <b>Leo</b>. Atualmente, estou cursando o bacharelado em Engenharia de Software no Instituto Federal de São Paulo (IFSP).</p>
+    <p>Anteriormente, trabalhei como designer gráfico, o que aprimorou minha visão crítica sobre interface e experiência do usuário (UX/UI).</p>
+    <p>Tenho uma afinidade especial pelo desenvolvimento Back-End, área na qual estou continuamente aperfeiçoando meus conhecimentos e buscando novas experiências.</p>
 </div>
 
 <br>
@@ -22,8 +22,15 @@
 <br>
 <br>
 
-```
+```python
 print("Não é a linguagem de programação que define o programador, mas sim sua lógica.")
+```
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Não é a linguagem de programação que define o programador, mas sim sua lógica.");
+    }
+}
 ```
 
 #
