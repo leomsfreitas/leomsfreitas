@@ -13,8 +13,8 @@
 
 <div>
     <h6>Utilize o dark theme para conseguir visualizar minhas redes ;)</h6>
-    <a href="https://www.linkedin.com/in/leofdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-    <a href="https://dev.to/leosupply" target="_blank"><img align="left" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+    <a href="https://www.linkedin.com/in/leozdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+    <a href="https://dev.to/leozdev" target="_blank"><img align="left" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 </div><br><br>
 
 ```c
@@ -44,4 +44,4 @@ int main() {
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
     <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
 </p><br>
-<h6 align="center">Leosupply©️ 2024</h6>
+<h6 align="center">Leozdev©️ 2024</h6>
