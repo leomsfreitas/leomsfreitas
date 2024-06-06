@@ -44,4 +44,8 @@ int main() {
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
     <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
 </p><br>
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leozdev&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leozdev&theme=radical)  
+| :-: | :-: |
+
 <h6 align="center">Leozdev©️ 2024</h6>
