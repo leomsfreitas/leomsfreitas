@@ -39,7 +39,6 @@ int main() {
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
     <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
