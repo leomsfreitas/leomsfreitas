@@ -1,4 +1,4 @@
-<h1>Olá 👋</h1>
+<h1>Hello 👋</h1>
 
 <a href="https://github.com/leosupply">
     <img align="right" width="350px" src="https://raw.githubusercontent.com/LeoSupply/LeoSupply/main/perfil_blob.png" alt="img_perfil">
@@ -6,13 +6,14 @@
 
 <div>
     <h3>Prazer!</h3> 
-    <p>Meu nome é <b>Leo</b>. Atualmente, estou cursando o bacharelado em Engenharia de Software no Instituto Federal de São Paulo (IFSP).</p>
-    <p>Anteriormente, trabalhei como designer gráfico, o que aprimorou minha visão crítica sobre interface e experiência do usuário (UX/UI).</p>
-    <p>Tenho uma afinidade especial pelo desenvolvimento Back-End, área na qual estou continuamente aperfeiçoando meus conhecimentos e buscando novas experiências.</p>
+    <p>My name is <b>Leo</b>. I am currently pursuing a bachelor's degree in Software Engineering at the Federal Institute of São Paulo (IFSP).</p>
+    <p>I have a special affinity for Back-End development, an area in which I am continuously improving my knowledge and seeking new experiences. 
+        Additionally, I really enjoy data science and natural language processing, and I participate in programming competitions, 
+        where I can apply and expand my skills.</p>
 </div>
 
 <div>
-    <h6>Utilize o dark theme para conseguir visualizar minhas redes ;)</h6>
+    <h6>Use the dark theme to see my social media ;)</h6>
     <a href="https://www.linkedin.com/in/leozdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
     <a href="https://dev.to/leozdev" target="_blank"><img align="left" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 </div><br><br>
@@ -21,7 +22,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Não é a linguagem de programação que define o programador, mas sim sua lógica.\n");
+    printf("It's not the programming language that defines the programmer, but rather their logic.\n");
     return 0;
 }
 ```
