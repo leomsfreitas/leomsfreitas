@@ -16,7 +16,7 @@
     <h6>Use the dark theme to see my social media ;)</h6>
     <a href="https://www.linkedin.com/in/leozdev/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
     <a href="https://dev.to/leozdev" target="_blank"><img align="left" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-</div><br><br>
+</div><br><br><br>
 
 ```c
 #include <stdio.h>
