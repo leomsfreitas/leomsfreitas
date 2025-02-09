@@ -29,7 +29,7 @@ public class Main {
 
 #
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leozdev&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leozdev&theme=radical)  
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=radical)  
 | :-: | :-: |
 
 <h6 align="center">Leo Freitas © 2025</h6>
