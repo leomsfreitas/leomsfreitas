@@ -8,12 +8,12 @@
 <p>I have a special affinity for Back-End development, an area in which I am continuously improving my knowledge and seeking new experiences. 
     Additionally, I really enjoy data science and natural language processing, and I participate in programming competitions, 
     where I can apply and expand my skills.</p>
-    
+
 ```c
 #include <stdio.h>
 
 int main() {
-    printf("It's not the programming language that defines the programmer, but rather their logic.\n");
+    printf("Code is the tool, logic is the craft.");
     return 0;
 }
 ```
