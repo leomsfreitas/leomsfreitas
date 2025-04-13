@@ -5,9 +5,7 @@
 </a>
 
 <p>My name is <b>Leo</b>. I am currently pursuing a bachelor's degree in Software Engineering at the Federal Institute of São Paulo (IFSP).</p>
-<p>I have a special affinity for Back-End development, an area in which I am continuously improving my knowledge and seeking new experiences. 
-    Additionally, I really enjoy data science and natural language processing, and I participate in programming competitions, 
-    where I can apply and expand my skills.</p>
+<p>My focus is on Data Science and Machine Learning. Currently, I develop research projects in Natural Language Processing (NLP) and have a strong interest in Computer Vision.</p>
 
 ```c
 #include <stdio.h>
