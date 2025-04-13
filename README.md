@@ -22,7 +22,7 @@ int main() {
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,c,js,mysql,postgres,git,github&theme=dark&perline=10" width="400" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=java,py,c,js,mysql,git,github&theme=dark&perline=10" width="400" alt="Skills">
 </p>
 
 #
