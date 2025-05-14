@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/660174f353cfea503c738744316f401e7763d330/name.svg" alt="Leo Freitas Banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)
 
 <div align="center">
     
@@ -13,8 +13,7 @@ Aprendendo mais sobre deep learning e modelos generativos
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true)
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leomsfreitas&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117"/> 
