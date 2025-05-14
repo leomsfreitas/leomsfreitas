@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/26f812ef5f9ebffc84ac684e03b111e959ffd62f/name.svg" alt="Leo Freitas Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/660174f353cfea503c738744316f401e7763d330/name.svg" alt="Leo Freitas Banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
