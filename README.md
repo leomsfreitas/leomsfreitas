@@ -1,13 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/26f812ef5f9ebffc84ac684e03b111e959ffd62f/name.svg" alt="Leo Freitas Banner" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
     
-🧠 Foco em Machine Learning, Ciência de Dados, PLN e Visão Computacional  
-🔬 Atualmente desenvolvendo projetos de pesquisa em IA  
-🌱 Aprendendo mais sobre deep learning e modelos generativos
+Foco em Machine Learning, Ciência de Dados, PLN e Visão Computacional  
+Atualmente desenvolvendo projetos de pesquisa em IA  
+Aprendendo mais sobre deep learning e modelos generativos
 
 </div>
 
@@ -20,10 +22,11 @@
 </div>
 
 <h3 align="center">Tecnologias e Ferramentas</h3>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn,opencv&theme=dark&perline=10" width="400" alt="Skills">
 </p>
 
-![GitHub Snake Dark](https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer">
