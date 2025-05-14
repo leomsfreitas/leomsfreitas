@@ -1,5 +1,5 @@
 <!-- 
-    Contato ;)
+    Contact ;)
     leosupply.dev@gmail.com 
 -->
 
@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/6c5bcbac0e6f14fed66a523dc780a14f96be3212/name.svg" alt="Leo Freitas" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=30&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Machine+Learning+Engineer">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true"/>
 
@@ -17,7 +17,7 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomsfreitas&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117"/>
 </div>
 
-<h3 align="center">Tecnologias e Ferramentas</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn,opencv&theme=dark&perline=10" width="400" alt="Skills">
