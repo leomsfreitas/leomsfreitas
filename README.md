@@ -1,34 +1,29 @@
-<h1>Hi!</h1> 
 
-<a href="https://github.com/leosupply">
-    <img align="right" width="350px" src="https://raw.githubusercontent.com/LeoSupply/LeoSupply/main/perfil_blob.png" alt="img_perfil">
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-<p>My name is <b>Leo</b>. I am currently pursuing a bachelor's degree in Software Engineering at the Federal Institute of São Paulo (IFSP).</p>
-<p>My focus is on Data Science and Machine Learning. Currently, I develop research projects in Natural Language Processing (NLP) and have a strong interest in Computer Vision.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
-```c
-#include <stdio.h>
+<div align="center">
+    
+🧠 Foco em Machine Learning, Ciência de Dados, PLN e Visão Computacional  
+🔬 Atualmente desenvolvendo projetos de pesquisa em IA  
+🌱 Aprendendo mais sobre deep learning e modelos generativos
 
-int main() {
-    printf("Code is the tool, logic is the craft.");
-    return 0;
-}
-```
+</div>
 
-#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">Tech Stack</h3>
+
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leomsfreitas&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117"/> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomsfreitas&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117"/>
+</div>
+
+<h3 align="center">Tecnologias e Ferramentas</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,mysql,git,github&theme=dark&perline=10" width="400" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn,opencv&theme=dark&perline=10" width="400" alt="Skills">
 </p>
 
-#
+![GitHub Snake Dark](https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake-dark.svg)
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=radical)  
-| :-: | :-: |
-
-<img src="https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake.svg" width="100%" />
-
-
-<h6 align="center">Leo Freitas © 2025</h6>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer">
