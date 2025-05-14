@@ -28,4 +28,7 @@ int main() {
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=radical)  
 | :-: | :-: |
 
+<img src="https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
+
 <h6 align="center">Leo Freitas © 2025</h6>
