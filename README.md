@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/6c5bcbac0e6f14fed66a523dc780a14f96be3212/name.svg" alt="Leo Freitas" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true"/>
 
