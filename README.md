@@ -5,14 +5,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Machine+Learning+Engineer)
 
-<div align="center">
-    
-Foco em Machine Learning, Ciência de Dados, PLN e Visão Computacional  
-Atualmente desenvolvendo projetos de pesquisa em IA  
-Aprendendo mais sobre deep learning e modelos generativos
-
-</div>
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true)
 
 <div align="center">  
@@ -26,6 +18,6 @@ Aprendendo mais sobre deep learning e modelos generativos
     <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn,opencv&theme=dark&perline=10" width="400" alt="Skills">
 </p>
 
-<img src="https://github.com/leomsfreitas/leomsfreitas/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer">
