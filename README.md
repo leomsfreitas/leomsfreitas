@@ -6,7 +6,7 @@
 <!-- TODO: Trocar as cores -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/6c5bcbac0e6f14fed66a523dc780a14f96be3212/name.svg" alt="Leo Freitas" width="100%"/>
+<img src="https://github.com/leomsfreitas/leomsfreitas/blob/main/name.svg" alt="Leo Freitas" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=%238a2be2&size=30&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Machine+Learning+Engineer">
 
