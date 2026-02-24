@@ -8,7 +8,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-        <img width="80%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello,%20welcome!&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&reversal=true&fontAlign=50&fontSize=70&fontAlignY=45" />
+        <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello,%20welcome!&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&reversal=true&fontAlign=50&fontSize=70&fontAlignY=45" />
         <br>
         <img src="perfil_blob_v2.png" width="250px" />
     </td>
