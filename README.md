@@ -35,7 +35,7 @@
     <img src="https://iconic-api.onrender.com/light/git" width="64px" />
 <div>
 
-<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-light.svg" alt="Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff&section=footer"/>
 
