@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Machine+Learning;Natural+Language+Processing;Data+Science"/>
 
-<p>Software Engineering student at the Federal Institute of São Paulo, focused on Machine Learning and Data Science. I work on research projects in NLP and Predictive Analytics, with experience in supervised learning, predictive modeling, and deep learning, and I’m also interested in Computer Vision (classification, detection, and segmentation).</p>
+<p><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>Data Science</b>. I work on research projects in <b>NLP</b> and <b>Predictive Analytics</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, and <b>deep learning</b>, and I’m also interested in <b>Computer Vision</b> (classification, detection, and segmentation).</p>
 
 </br>
 
