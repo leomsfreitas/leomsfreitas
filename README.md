@@ -6,14 +6,19 @@
 
 <div align="center">
 
-<img width="40%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello,%20welcome!&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&reversal=true&fontAlign=50&fontSize=70&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello,%20welcome!&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&reversal=true&fontAlign=50&fontSize=70&fontAlignY=45"/>
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-    <img width="45%" src="perfil_blob_v2.png"/>
-    <div width="45%" style="text-align: left;">
-        <p>Software Engineering student at the Federal Institute of São Paulo, focused on Machine Learning and Data Science. I work on research projects in NLP and Predictive Analytics, with experience in supervised learning, predictive modeling, and deep learning, and I'm also interested in Computer Vision (classification, detection, and segmentation).</p>
-    </div>
-</div>
+<table>
+    <tr>
+        <td width="45%">
+            <img width="100%" src="perfil_blob_v2.png"/>
+        </td>
+        <td width="55%" style="text-align: left; padding-left: 20px;">
+            <p>Software Engineering student at the Federal Institute of São Paulo, focused on Machine Learning and Data Science. I work on research projects in NLP and Predictive Analytics, with experience in supervised learning, predictive modeling, and deep learning, and I'm also interested in Computer Vision (classification, detection, and segmentation).</p>
+        </td>
+    </tr>
+</table>
+
 
 </div>
 
