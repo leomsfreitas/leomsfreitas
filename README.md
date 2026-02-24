@@ -18,21 +18,21 @@
 
 <h3>Tech Stack</h3>
 
-<!-- <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=light&perline=10" width="400" alt="Skills"> -->
+<!-- <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=dark&perline=10" width="400" alt="Skills"> -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
-    <img src="https://iconic-api.onrender.com/light/python" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/c" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/scikit-learn" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/pytorch" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/tensorflow" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/jupyter" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/google-colab" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/postgresql" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/mysql" width="64px" />   
-    <img src="https://iconic-api.onrender.com/light/mongodb" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/docker" width="64px" />
-    <img src="https://iconic-api.onrender.com/light/git" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/jupyter" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />   
+    <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <div>
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
