@@ -12,19 +12,30 @@
 
 </br>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/> -->
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/>
 
 <h3>Tech Stack</h3>
 
-<!-- <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=dark&perline=10" width="400" alt="Skills"> -->
+<!-- <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=light&perline=10" width="400" alt="Skills"> -->
 
-<img width="70%" src="stack_icons.png" alt="Skills">
+<div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
+    <img src="https://iconic-api.onrender.com/light/python" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/c" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/scikit-learn" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/pytorch" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/tensorflow" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/jupyter" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/google-colab" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/postgresql" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/mysql" width="64px" />   
+    <img src="https://iconic-api.onrender.com/light/mongodb" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/docker" width="64px" />
+    <img src="https://iconic-api.onrender.com/light/git" width="64px" />
+<div>
 
-<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-light.svg" alt="Snake" width="100%" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=016bff&section=footer"/>
 
