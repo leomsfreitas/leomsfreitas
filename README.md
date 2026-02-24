@@ -20,7 +20,9 @@
 
 <h3>Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=dark&perline=10" width="400" alt="Skills">
+<!-- <img src="https://skillicons.dev/icons?i=java,c,py,tensorflow,pytorch,anaconda,sklearn&theme=dark&perline=10" width="400" alt="Skills"> -->
+
+<img width="70%" src="stack_icons.png" alt="Skills">
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
