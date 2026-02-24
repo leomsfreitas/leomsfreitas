@@ -1,6 +1,6 @@
 <div align="center">
-<!-- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=016bff"/> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff"/>
 
 <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello,%20welcome!&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&reversal=true&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
 <img width="35%" src="perfil_blob_v2.png"/>
@@ -37,6 +37,6 @@
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/5405377576f40961636775a2e0dd8c511183174b/github-contribution-grid-snake-light.svg" alt="Snake" width="100%" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=016bff&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff&section=footer"/>
 
 </div>
