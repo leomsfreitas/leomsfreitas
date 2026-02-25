@@ -20,7 +20,7 @@
 
 <h3>Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,anaconda,postgres,mysql,mongodb,docker,git,jupyter,&theme=dark&perline=10" width="400" alt="Skills">
+<img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,anaconda,postgres,mysql,mongodb,docker,git,jupyter,&theme=dark&perline=6" width="400" alt="Skills">
 
 <!-- Backup Skills -->
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
@@ -40,6 +40,8 @@
 
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=10&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=@leomsfreitas | 2026"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff&section=footer"/>
 
