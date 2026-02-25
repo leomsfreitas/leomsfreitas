@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff"/>
 
-<img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
+<!-- <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
 <img width="35%" src="perfil_blob_v2.png"/><br/> -->
 
 <table>
   <tr>
-    <td>
-      <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
-      <img width="35%" src="perfil_blob_v2.png"/><br/>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
+      <img src="perfil_blob_v2.png"/><br/>
     </td>
-    <td>
-      <p><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>Data Science</b>. I work on research projects in <b>NLP</b> and <b>Predictive Analytics</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, and <b>deep learning</b>, and I’m also interested in <b>Computer Vision</b> (classification, detection, and segmentation).</p>
+    <td width="50%">
+      <h6><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>Data Science</b>. I work on research projects in <b>NLP</b> and <b>Predictive Analytics</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, and <b>deep learning</b>, and I’m also interested in <b>Computer Vision</b> (classification, detection, and segmentation).</h6>
     </td>
   </tr>
 </table>
