@@ -41,8 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=15&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=@leomsfreitas+|+2026"/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff&section=footer"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=15&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=@leomsfreitas+|+2026"/>
 </div>
