@@ -4,7 +4,7 @@
 
 
 <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
-<img width="35%" src="perfil_blob_v2.png"/><br/>
+<img width="35%" src="perfil_blob_v2.png"/>
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=650&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Leo+M.+S.+Freitas"/> -->
 
