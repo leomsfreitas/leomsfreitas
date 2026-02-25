@@ -12,15 +12,15 @@
 
 <p><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>Data Science</b>. I work on research projects in <b>NLP</b> and <b>Predictive Analytics</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, and <b>deep learning</b>, and I’m also interested in <b>Computer Vision</b> (classification, detection, and segmentation).</p>
 
-</br>
+<h2>Tech Stack</h2>
 
+<img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,anaconda,postgres,mysql,mongodb,docker,git,jupyter,&theme=dark&perline=6" width="400" alt="Skills">
+
+<h2></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/>
 
-<h3>Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,anaconda,postgres,mysql,mongodb,docker,git,jupyter,&theme=dark&perline=6" width="400" alt="Skills">
 
 <!-- Backup Skills -->
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
