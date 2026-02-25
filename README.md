@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,postgres,mysql,mongodb,docker,git&theme=dark&perline=10" alt="Skills">
 <h2></h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/> -->
 
 <img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/>
 
