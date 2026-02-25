@@ -8,7 +8,7 @@
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=650&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Leo+M.+S.+Freitas"/> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Machine+Learning;Natural+Language+Processing;Data+Science"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Machine+Learning;Natural+Language+Processing;Data+Science;Academic+Researcher"/>
 
 <p><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>Data Science</b>. I work on research projects in <b>NLP</b> and <b>Predictive Analytics</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, and <b>deep learning</b>, and I’m also interested in <b>Computer Vision</b> (classification, detection, and segmentation).</p>
 
