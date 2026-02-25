@@ -21,8 +21,7 @@
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/> -->
 
-<img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/>
-
+<!-- <img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/> -->
 
 <!-- Backup Skills -->
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
@@ -39,7 +38,6 @@
     <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <div> -->
-
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
