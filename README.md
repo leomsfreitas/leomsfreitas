@@ -1,47 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff"/>
+<h1>Leo M. S. Freitas</h1>
+<p><i>Software Engineering student · Applied AI &amp; NLP</i></p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=machine+learning;natural+language+processing;applied+ai+engineering;data+science" alt="focus areas"/>
 
-<!-- <img width="30%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=016bff&text=Hello!%20I'm%20Leo%20:)&descAlign=50&descAlignY=50&section=header&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=45"/><br/>
-<img width="35%" src="perfil_blob_v2.png"/> -->
+<br/>
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=650&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Leo+M.+S.+Freitas"/> -->
+<p width="70%">
+Two years of applied research in Natural Language Processing, including hate speech detection and sentiment analysis. Also working on engineering solutions with foundation models, integrating LLMs through the OpenAI and Hugging Face APIs, and building agent architectures with AutoGen and RAG. Currently looking for an internship in Machine Learning, Data, or AI.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Machine+Learning;Natural+Language+Processing;Data+Science;Academic+Researcher"/>
+<br/>
 
-<p><b>Software Engineering student</b> at the <b>Federal Institute of São Paulo</b>, focused on <b>Machine Learning</b> and <b>NLP</b>. I work on research projects involving <b>hate speech detection</b>, <b>sentiment analysis</b>, and <b>LLM-based classification</b>, with experience in <b>supervised learning</b>, <b>predictive modeling</b>, <b>Transformers</b>, and <b>AI Agents</b>.</p>
+<sub>TECH STACK</sub>
+<br/><br/>
 
-</br>
+<img src="https://cdn.simpleicons.org/python/3776AB" height="38" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="38" alt="Scikit-learn"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="38" alt="PyTorch"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="38" alt="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="38" alt="Hugging Face"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="38" alt="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/013243" height="38" alt="NumPy"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/999999" height="38" alt="Ollama"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker"/>
 
-<h3>Tech Stack</h3>
-</br>
-<img src="https://skillicons.dev/icons?i=python,c,sklearn,pytorch,tensorflow,postgres,mysql,mongodb,docker,git&theme=dark&perline=10" alt="Skills">
-<h2></h2>
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomsfreitas&bg_color=0d1117&color=ffffff&line=5900ff&point=ffffff&area=true&hide_border=true"/> -->
-
-<!-- <img src="https://streak-stats.demolab.com?user=leomsfreitas&theme=transparent&mode=weekly"/> -->
-
-<!-- Backup Skills -->
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: center; justify-content: center;">
-    <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/jupyter" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />   
-    <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-<div> -->
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=016bff&section=footer"/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=100&size=15&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=@leomsfreitas+|+2026"/>
+<sub>@leomsfreitas · 2026</sub>
+
 </div>
