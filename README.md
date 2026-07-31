@@ -3,7 +3,14 @@
 <h1>Leo M. S. Freitas</h1>
 <p><i>Software Engineering student · Applied AI &amp; NLP</i></p>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=machine+learning;natural+language+processing;applied+ai+engineering;data+science" alt="focus areas"/>
+
+<!-- <p>
+<a href="https://linkedin.com/in/leomsfreitas"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:leomsfreitas@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email"/></a>
+</p> -->
 
 <br/>
 
@@ -28,10 +35,18 @@ Two years of applied research in Natural Language Processing, including hate spe
 
 <br/><br/>
 
+| | |
+|:---:|:---:|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=github_dark" alt="Profile details"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=github_dark" alt="General stats"/> |
+
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
 <br/>
 
-<sub>@leomsfreitas · 2026</sub>
+<p>
+<sub>contact</sub>
+<br/>
+<sub>leomsfreitas@gmail.com | linkedin.com/in/leomsfreitas</sub>
+</p>
 
 </div>
