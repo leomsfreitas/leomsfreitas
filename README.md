@@ -32,18 +32,17 @@ Two years of applied research in Natural Language Processing, including hate spe
 <img src="https://cdn.simpleicons.org/numpy/013243" height="38" alt="NumPy"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/999999" height="38" alt="Ollama"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker"/>
-
 <br/><br/>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=github_dark) |
-| :-: | :-: |
+<sub>CONTACT</sub>
+<br/><br/>
+
+<!-- <sub>leomsfreitas@gmail.com | linkedin.com/in/leomsfreitas</sub>
+<br/><br/> -->
+```python
+email = "leomsfreitas@gmail.com"
+linkedin = "linkedin.com/in/leomsfreitas/"
+```
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
-
-<br/>
-
-
-<br/>
-<sub>leomsfreitas@gmail.com | linkedin.com/in/leomsfreitas</sub>
-
 </div>
