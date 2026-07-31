@@ -34,14 +34,15 @@ Two years of applied research in Natural Language Processing, including hate spe
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker"/>
 <br/><br/>
 
+
+
 <sub>CONTACT</sub>
 <br/><br/>
 
-<!-- <sub>leomsfreitas@gmail.com | linkedin.com/in/leomsfreitas</sub>
-<br/><br/> -->
 ```python
 email = "leomsfreitas@gmail.com"
 linkedin = "linkedin.com/in/leomsfreitas/"
+github = "@leomsfreitas"
 ```
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
