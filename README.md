@@ -35,18 +35,15 @@ Two years of applied research in Natural Language Processing, including hate spe
 
 <br/><br/>
 
-| | |
-|:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=github_dark" alt="Profile details"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=github_dark" alt="General stats"/> |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomsfreitas&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomsfreitas&theme=github_dark) |
+| :-: | :-: |
 
 <img src="https://raw.githubusercontent.com/leomsfreitas/leomsfreitas/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
 
 <br/>
 
-<p>
-<sub>contact</sub>
+
 <br/>
 <sub>leomsfreitas@gmail.com | linkedin.com/in/leomsfreitas</sub>
-</p>
 
 </div>
