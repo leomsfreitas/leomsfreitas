@@ -9,7 +9,7 @@
 <br/>
 
 <p width="70%">
-Software Engineering student with practical experience in software development, CI/CD, cloud environments, and Natural Language Processing research. My projects and studies also involve language models, agent-based architectures, RAG, and MCP servers, exploring their integration into software systems.
+Hands-on experience in software development, CI/CD, cloud environments, and Natural Language Processing research. My projects and studies also involve language models, agent-based architectures, and the integration of AI systems with external tools and knowledge sources.
 </p>
 
 <br/>
