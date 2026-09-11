@@ -9,7 +9,7 @@
 <br/>
 
 <p width="70%">
-Applied researcher and software engineer with experience in software development and CI/CD practices, applied research in Natural Language Processing, relational databases, and cloud infrastructures (AWS). Also experienced in integrating foundation models, and developing multi-agent architectures, RAG, and MCP servers.
+Software Engineering student with practical experience in software development, CI/CD, cloud environments, and Natural Language Processing research. My projects and studies also involve language models, agent-based architectures, RAG, and MCP servers, exploring their integration into software systems.
 </p>
 
 <br/>
