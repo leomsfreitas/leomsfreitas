@@ -9,7 +9,7 @@
 <br/>
 
 <p width="70%">
-Applied researcher and software engineer with experience in software development and CI/CD practices, Natural Language Processing, relational databases, and cloud infrastructures (AWS). Specialized in building production-ready AI solutions, integrating foundation models, and developing multi-agent architectures, RAG, and MCP servers.
+Applied researcher and software engineer with experience in software development and CI/CD practices, applied research in Natural Language Processing, relational databases, and cloud infrastructures (AWS). Also experienced in integrating foundation models, and developing multi-agent architectures, RAG, and MCP servers.
 </p>
 
 <br/>
